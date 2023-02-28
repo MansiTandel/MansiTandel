@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MansiTandel
 - 👩‍💻 I'm a graduate student at Santa Clara University.
 - 👀 I’m interested in software engineering.
+- ❤️😍 Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me  EMail id: mtandel@scu.edu
