@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MansiTandel
-- 👩‍💻 I'm a graduate student at Santa Clara University. ![image](https://user-images.githubusercontent.com/97576290/222929501-f76f58bc-4990-41ea-b656-da41172976dc.png)
+- 👩‍💻 I'm a graduate student at Santa Clara University. 
 
 - 👀 I’m interested in software engineering.
 - ❤️😍 Python
