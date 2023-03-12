@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MansiTandel
 - 👩‍💻 I'm a graduate student at Santa Clara University. 
 
-- 👀 I’m interested in software engineering.
+- 👀 I’m interested in software engineering and full-stack development.
 - ❤️😍 Python
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
