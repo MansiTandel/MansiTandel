@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MansiTandel
+- 👋 Hi, I’m Mansi.
 - 👩‍💻 I'm a graduate student at Santa Clara University. 
 
 - 👀 I’m interested in software engineering and full-stack development.
