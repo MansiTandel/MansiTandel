@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Mansi.
-- 👩‍💻 I'm a graduate student at Santa Clara University. 
+- 👩‍💻 I'm a recent graduate from Santa Clara University ![image](https://github.com/MansiTandel/MansiTandel/assets/97576290/d821221d-6df0-4c64-9b79-99f04d59b733)
+. 
 
 - 👀 I’m interested in software engineering and full-stack development.
 - ❤️😍 Python
