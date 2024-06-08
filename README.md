@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fchipp%2Fcollections%2F572323-coding-gifs&psig=AOvVaw2pxLLvxqGDGVg-ryUpYXf5&ust=1717897395041000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj7oprR8MqGAxXQWTABHSg6D8EQjRx6BAgAEBU)" width="100"/>
+</div>
 - 👋 Hi, I’m Mansi.
 - 👩‍💻 I'm a recent graduate from Santa Clara University.
 . 
