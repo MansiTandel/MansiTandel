@@ -1,10 +1,8 @@
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cumiusa.com%2F%3Fu%3Dgrated-laptop-programming-code-web-technology-vector-image-tt-LLL9Cg&psig=AOvVaw3yOIgN8xqcez2xpqKdOEFi&ust=1717897528349000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwi94uKQ8cqGAxVTFmIAHT7xDygQjRx6BAgAEBU" width="80"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 - 👋 Hi, I’m Mansi.
 - 👩‍💻 I'm a recent graduate from Santa Clara University.
-. 
-
 - 👀 I’m interested in software engineering and full-stack development.
 - ❤️😍 Python
 - 🌱 I’m currently learning ...
